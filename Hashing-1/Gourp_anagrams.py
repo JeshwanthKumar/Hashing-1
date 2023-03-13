@@ -1,4 +1,4 @@
-#Time_Complexity: O(n(l*l log l))
+#Time_Complexity: O(n(l log l)+l) = O(nl log l + nl) = O(nl log l)
 #Space_Complexity: O(n)
 
 class Solution:
